@@ -1,2 +1,3 @@
 # Garden-Route-Gaming
 Online Store
+Starting out...
